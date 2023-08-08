@@ -1,0 +1,16 @@
+body {
+    background-color: rgb(225, 255, 255)
+}
+
+#par1 {
+    color: red;
+}
+
+#par2 {
+    color: grey;
+}
+
+.poetry {
+    color: brown;
+    text-decoration-color: brown;
+}
